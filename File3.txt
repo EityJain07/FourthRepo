@@ -1,1 +1,3 @@
 Third Commit
+print("sum of two numbers")
+print("multiplication of two numbers")
